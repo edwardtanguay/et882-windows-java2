@@ -1,8 +1,8 @@
 package com.example.model;
 
-public class Person {
+public class FirstPerson {
 
-    public Person(String firstName, String lastName, int age, int score) {
+    public FirstPerson(String firstName, String lastName, int age, int score) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.age = age;
