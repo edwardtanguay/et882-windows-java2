@@ -12,6 +12,10 @@ public class Main {
 
         var firstPerson = new FirstPerson("Jan", "Kramer", 34, 66);
 
+//        for (int i = 0; i < 100; i++) {
+//            System.out.println("i = " + i);
+//        }
+
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
